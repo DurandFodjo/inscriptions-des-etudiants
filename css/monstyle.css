@@ -1,0 +1,26 @@
+.margetop10{
+    margin-top: 10px;
+} 
+.margetop20{
+    margin-top: 20px;
+} 
+.margetop30{
+    margin-top: 30px;
+} 
+.margetop40{
+    margin-top: 40px;
+} 
+.margetop50{
+    margin-top: 50px;
+} 
+.margetop60{
+    margin-top: 60px;
+} 
+h1{
+    font-size: 40px;
+    color: blue;
+}
+.input-container{
+    position: relative;
+    margin-bottom: 10px;
+}
