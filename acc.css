@@ -1,0 +1,32 @@
+body {
+    background-color: blueviolet;
+    background-image: url("bacc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+}
+.un {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.deux {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+.trois {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: black;
+}a:link {
+    color: blue;
+}
+a:visited {
+     color: blue;
+}
+a:hover {
+    color: hotpink;
+    font-size: 50px;
+}
